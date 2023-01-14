@@ -200,5 +200,38 @@ nav ul {
     font-weight: 400;
     font-size: 16px;
 
+}
 
+.achievements {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.achievements img {
+    border: 1px solid #FF900E;
+    width: 35px;
+
+}
+
+.reward {
+    padding: 20px;
+    border: 1px solid coral;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.reward-count {
+    color: #424242;
+    font-weight: 600;
+    font-size: 27px;
+
+}
+
+.reward-title {
+    font-weight: 400;
+    font-size: 18px;
+    color: #727272;
+    ;
 }
